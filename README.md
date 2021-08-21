@@ -7,4 +7,5 @@
 ![My Task](https://github.com/olisaemekaejiofor/hng/blob/main/hngtask_2/screen/20210821_094047.gif)
 
 
-##Link to the hosted app:
+## Link to the hosted app:
+https://appetize.io/app/tnhfa8404gy6wdvq8ppa1vgrbm
